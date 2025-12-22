@@ -4,8 +4,7 @@
 
 Καλώς ήρθατε στο template repository για την εργασία Git.
 
-Αυτό το repository θα χρησιμοποιηθεί ως βάση και θα δημιουργηθούν
-ξεχωριστά αντίγραφα για κάθε ομάδα.
+Αυτό το είναι το repository της ομάδας gamma.
 
 ## Repository Structure
 

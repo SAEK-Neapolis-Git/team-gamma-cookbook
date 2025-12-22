@@ -2,9 +2,7 @@
 
 ## Οδηγίες για φοιτητές
 
-Καλώς ήρθατε στο template repository για την εργασία Git.
-
-Αυτό το είναι το repository της ομάδας gamma.
+Καλώς ήρθατε στο repository της ομάδας gamma.
 
 ## Repository Structure
 
